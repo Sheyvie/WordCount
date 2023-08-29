@@ -1,7 +1,7 @@
 # WordCount
 Create a program that reads a text file and counts the number of words in it. The program should display the total word count at the end.
 
-##Requirements:
+#Requirements:
 
 Create a text file named input.txt and write some text content in it.
 Create a C# console application.
